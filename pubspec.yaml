@@ -1,0 +1,30 @@
+name: practicaprefs
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+4
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.2.4
+  path_provider: ^2.1.6
+  shared_preferences: ^2.5.6
+
+  sqflite: ^2.3.3
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  image_picker_platform_interface: ^2.11.0
+  flutter_lints: ^6.0.0
+  shared_preferences_platform_interface: ^2.4.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - taller/
+    - assets/portada_taller.png

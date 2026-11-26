@@ -1,0 +1,4 @@
+\taller\flutter.jpg
+\taller\videojuegos.jpg
+\taller\hackeo_etico.jpg
+\taller\python.jpg
